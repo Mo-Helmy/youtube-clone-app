@@ -1,6 +1,6 @@
 ## IntroDuction
 
-you can preview this project with [Youtube Clone App](https://project-travel-advisor-app.netlify.app/).
+you can preview this project with [Youtube Clone App](https://project-youtube-clone-app.netlify.app/).
 
 ## dependencies
 
@@ -11,6 +11,10 @@ you can preview this project with [Youtube Clone App](https://project-travel-adv
 ### react-router-dom
 
 ### react-player
+
+## API
+
+### [Youtube v3](https://rapidapi.com/ytdlfree/api/youtube-v31)
 
 ## Available Scripts
 
